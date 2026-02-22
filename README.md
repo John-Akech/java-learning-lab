@@ -1,2 +1,2 @@
-# java-learning-lab
-Daily hands-on Java projects from fundamentals to backend development. Focused on logic, consistency, and real skills.
+A structured daily Java practice repository showcasing growth from core programming concepts to backend development.  
+Emphasizes clean code, problem solving, version control discipline, and consistent learning.
