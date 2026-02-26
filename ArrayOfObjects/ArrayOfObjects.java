@@ -3,7 +3,8 @@ class Students {
     String name;
     int marks;
 }
-public class Hello {
+
+public class ArrayOfObjects {
     public static void main(String[] args) {
         Students s1 = new Students();
         s1.rollNum = 1;
