@@ -1,7 +1,7 @@
+package ArraysEllipsis;
 
-
-public class Hello {
-    public static void main(String[] args) {
+public class ArraysEllipsis {
+        public static void main(String[] args) {
         System.out.println(add(1, 2, 3, 4, 5));
 
     }
