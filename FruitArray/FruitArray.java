@@ -1,7 +1,9 @@
+package FruitArray;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Hello {
+public class FruitArray {
     public static void main(String[] args) {
         // Array of fruits
 
