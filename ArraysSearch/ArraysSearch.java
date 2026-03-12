@@ -1,8 +1,9 @@
+package ArraysSearch;
 
 import java.util.Scanner;
 
-public class Hello {
-    public static void main(String[] args) {
+public class ArraysSearch {
+        public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // Arrays search
 
