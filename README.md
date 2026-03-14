@@ -1,2 +1,3 @@
-A structured daily Java practice repository showcasing growth from core programming concepts to backend development.  
-Emphasizes clean code, problem solving, version control discipline, and consistent learning.
+A structured Java learning repository containing daily practice exercises, mini-projects, and course assignments.
+
+This repository documents my journey from core Java fundamentals to backend development, focusing on problem solving, clean code practices, version control discipline, and consistent learning.
